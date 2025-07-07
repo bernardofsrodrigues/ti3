@@ -1,0 +1,46 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+
+# Django
+*.log
+.env
+.env.*
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# React
+node_modules/
+dist/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+
+# Static/media generated
+staticfiles/
+media/
